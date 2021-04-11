@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tuna ÖZKAN</h1>
+<h1 align="center">Hi, I'm Tuna ÖZKAN</h1>
 <h4 align="center">I am 24 years old. I graduated from Erciyes University Computer Engineering on August 12, 2020.<br> 
  I have been using C# and Asp.Net for many years. Recently I have been working on .Net Core, MVC, TypeScript, Angular and React to improve myself. 
   The projects I have developed are available in <a href="https://github.com/tunazkn" target="_blank"> my github account</a>.
