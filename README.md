@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tuna ÖZKAN</h1>
 <h3 align="center">Computer Engineer from Turkey</h3>
 
+
+## Contact Me 📫
+- [![Instagram Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/tna.zkn/) 
+  [![Linkedin Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tunaozkan/) 
+  
+  
+
+
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=tunazkn&column=4&margin-w=15&margin-h=15" alt="tunazkn" />
