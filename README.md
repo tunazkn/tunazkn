@@ -3,8 +3,8 @@
 
 
 ## Contact Me 📫
-- [![Instagram Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/tna.zkn/) 
-  [![Linkedin Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tunaozkan/) 
+- [![Instagram Badge](https://img.shields.io/badge/tna.zkn-follow%20on%20instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/tna.zkn/) 
+  [![Linkedin Badge](https://img.shields.io/badge/tunazkn-follow%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tunaozkan/) 
   
   
 
