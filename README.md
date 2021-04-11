@@ -32,8 +32,7 @@
 <br>
   <br>
 <details open>
- 
-## <summary>:zap: My Github Stats :</summary>
+ <summary> <h1>:zap: <b>My Github Stats: </b> </h1> </summary>
 <br>
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=tunazkn&show_icons=true&locale=en" alt="tunazkn" />
